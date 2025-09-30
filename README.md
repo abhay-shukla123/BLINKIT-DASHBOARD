@@ -27,7 +27,7 @@ The Blinkit Dashboard is a **data analysis and visualization project** aimed at 
 
 ## Screenshots
 ### Dashboard Overview
-![Dashboard Overview](Screenshot 2025-09-09 121108.png)
+![Dashboard Overview]()
 
 ## Data Sources
 - Blinkit sales dataset containing:  
