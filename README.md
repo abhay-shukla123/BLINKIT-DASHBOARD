@@ -25,12 +25,6 @@ The Blinkit Dashboard is a **data analysis and visualization project** aimed at 
 - **Product & City-wise Analysis:** Track top-selling products and city performance.  
 - **Interactive Filters:** Filter data by product, city, outlet size, or date for deeper insights.  
 
-## Screenshots
-### Dashboard Overview
-![Dashboard Overview](Screenshot 2025-09-09 121108.png)
-
-*Note: Replace the paths (`screenshots/filename.png`) with your actual screenshot file paths.*
-
 ## Data Sources
 - Blinkit sales dataset containing:  
   - Product Name  
