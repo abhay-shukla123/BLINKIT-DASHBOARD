@@ -27,7 +27,9 @@ The Blinkit Dashboard is a **data analysis and visualization project** aimed at 
 
 ## Screenshots
 ### Dashboard Overview
-![Dashboard Overview](Screenshot 2025-09-09 121108.png)
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+*Note: Replace the paths (`screenshots/filename.png`) with your actual screenshot file paths.*
 
 ## Data Sources
 - Blinkit sales dataset containing:  
@@ -49,4 +51,19 @@ The Blinkit Dashboard is a **data analysis and visualization project** aimed at 
 
 ## How to Use
 1. Open the dashboard in **Power BI Desktop**.  
-2. Use the slicer
+2. Use the slicers to filter data by product, city, outlet size, or date.  
+3. Click on visuals to interact and explore detailed insights.  
+4. Use drill-through pages for detailed product, city, or outlet-level analysis.  
+
+## Insights & Outcomes
+- Identify top-selling products, high-performing cities, and best outlets.  
+- Track trends in sales, ratings, and number of items over time.  
+- Monitor outlet performance based on size and sales metrics.  
+- Facilitate data-driven decisions for marketing, inventory, and operations.  
+
+## Author
+**Abhay Shukla**  
+- [LinkedIn](https://www.linkedin.com/in/abhay-shukla-997269367)  
+
+## License
+This project is for educational and portfolio purposes.
