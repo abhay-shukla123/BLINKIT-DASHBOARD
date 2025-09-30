@@ -27,7 +27,7 @@ The Blinkit Dashboard is a **data analysis and visualization project** aimed at 
 
 ## Screenshots
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](Screenshot 2025-09-09 121108.png)
 
 *Note: Replace the paths (`screenshots/filename.png`) with your actual screenshot file paths.*
 
